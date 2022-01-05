@@ -2,7 +2,7 @@
 - 👀 I’m interested in MM
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on system architecture
-- 📫 How to reach me (d't even think about it, ’ω‵)
+- 📫 How to reach me (d't even think about it, ′ω‵)
 
 <!---
 herochen0628/herochen0628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
